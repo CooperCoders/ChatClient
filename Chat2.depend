@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1385254261 source:c:\users\jason\documents\chat2\main.cpp
+	<math.h>
+	<fstream>
+	<string>
+	<sstream>
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"Chat.h"
+	"StringInput.h"
+	"Socket.h"
+	<list>
+	<process.h>
+	<winsock2.h>
+
+1384468109 c:\users\jason\documents\chat2\sdl_init.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+
+1384476774 c:\users\jason\documents\chat2\stringinput.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1384629826 source:c:\users\jason\documents\chat2\stringinput.cpp
+	"StringInput.h"
+
+1384922525 c:\users\jason\documents\chat2\chat.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	<winsock2.h>
+
+1385240894 source:c:\users\jason\documents\chat2\socket.cpp
+	"Socket.h"
+
+1385155961 c:\users\jason\documents\chat2\socket.h
+	<winsock2.h>
+	<string>
+
